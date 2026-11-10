@@ -11,7 +11,7 @@ The public repository notebooks can also be opened through Colab's GitHub tab us
 | Part | Topic | Notebook | Colab | Video |
 | --- | --- | --- | --- | --- |
 | 1 | K-means and its variations | [Notebook](notebooks/01-kmeans/notebook.ipynb) | [Open](https://colab.research.google.com/drive/1VvqHxe4neAbb4UomQWfox5NJtkZeuxah) | [final_kmeans_zero_to_hero.mp4](https://youtu.be/9VRA44HFHqs) |
-| 2 | AutoGluon capabilities | [Notebook](notebooks/02-autogluon-capabilities/notebook.ipynb) | [Open](https://colab.research.google.com/drive/18lcnIsmQaXRISkdp0atZfWFGRQZIunJ3) | [final_autogluon_capabilities_tour.mp4](https://youtu.be/BaMR5OxrV9U) |
+| 2 | AutoGluon capabilities | [Notebook](notebooks/02-autogluon-capabilities/notebook.ipynb) | [Open](https://colab.research.google.com/drive/18lcnIsmQaXRISkdp0atZfWFGRQZIunJ3) | Pending replacement video |
 | 3 | AutoGluon end-to-end ML and metrics | [Notebook](notebooks/03-autogluon-end-to-end/notebook.ipynb) | [Open](https://colab.research.google.com/drive/1qFp3tuhu-C0dVvQ4V6-XdeLT_1GNowXM) | [final_auto_gluon_zero_to_hero.mp4](https://youtu.be/kF4CarB90YU) |
 | 4 | NVIDIA RAPIDS and CPU/GPU comparisons | [Notebook](notebooks/04-rapids-cpu-comparison/notebook.ipynb) | [Open](https://colab.research.google.com/drive/15_4S9xnA2K5QM7XQT6WPt2KkloZWhG1Z) | [final_nvidia_rapids_zero_to_hero.mp4](https://youtu.be/xQ76GCqRXzc) |
 | 5 | PyCaret capabilities | [Notebook](notebooks/05-pycaret-capabilities/notebook.ipynb) | [Open](https://colab.research.google.com/drive/1iiMgSPbzJ8hP5ZAG32Ibyx5Hobn8m2GD) | [final_pycaret_capbilities_tour.mp4](https://youtu.be/hzou_5Qcbg4) |
